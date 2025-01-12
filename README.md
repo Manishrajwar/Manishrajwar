@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Freelencing Projects**
 
-- 🌱 I’m currently learning **Next.js With Typescript**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **React.js , Next.js , MongoDB , Typescript,Node.js , Express.js , Javascript , C++**
+- 💬 Ask me about **React.js , Next.js , MongoDB , Typescript,Node.js , Express.js , Javascript , C++ , AWS , Ansible , Bash Script , DOCKER , Devops**
 
 - 📫 How to reach me **manishsinghrawjar80@gmail.com**
 
